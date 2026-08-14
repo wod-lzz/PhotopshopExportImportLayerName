@@ -1,3 +1,5 @@
+简体中文 | [English](./README.en.md) 
+
 # Photoshop 图层名称导出 / 导入
 
 这是一个用于 Photoshop 的脚本工具，适合做图层命名批量翻译、重命名和跨语言处理。
