@@ -135,5 +135,3 @@ Import script writes back names
   ↓
 Layer naming update complete
 ```
-
-If you want, I can also add a bilingual index section to the main README so both Chinese and English versions are linked together more neatly.
