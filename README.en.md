@@ -1,3 +1,5 @@
+[简体中文](./README.md) | English
+
 # Photoshop Layer Name Export / Import
 
 This is a Photoshop script tool for batch layer-name translation, renaming, and cross-language processing.
